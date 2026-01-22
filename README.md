@@ -1,4 +1,6 @@
-# 🔬 Phishing Detection: Fine-Tuned Small LLM vs GPT-4
+# Phishing Detection: Fine-Tuned Small LLM vs GPT-4
+
+**Author**: Guy Lissak, MSc Data Science, HIT — Cyber Security for Data Scientists Course
 
 Comparing fine-tuned Qwen 2.5 0.5B against GPT-4 zero-shot for phishing email classification.
 
@@ -61,9 +63,3 @@ This project replicates and extends **Bucher & Martini (2024)**: *"Fine-Tuned 'S
 ├── combined_phishing_dataset.csv  # Balanced dataset
 └── README.md
 ```
-
-## Author
-
-**Guy Lissak**
-MSc Data Science, HIT
-Cyber Security for Data Scientists Course
