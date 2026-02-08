@@ -2,7 +2,7 @@
 
 Comparing fine-tuned Qwen 2.5 0.5B against GPT-4 zero-shot for phishing email classification.
 
-**Author**: Guy Lissak, MSc Data Science, HIT — Cyber Security for Data Scientists Course
+**Author**: Guy Lissak 201121126, MSc Data Science, HIT — Cyber Security for Data Scientists Course
 
 ## Research Context
 
